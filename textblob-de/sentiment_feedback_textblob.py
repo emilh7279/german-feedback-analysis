@@ -1,7 +1,7 @@
+import os
 import csv
 import datetime as dt
-from datetime import datetime
-
+from pathlib import Path
 import pandas as pd
 from textblob_de import TextBlobDE as TextBlob
 
@@ -24,13 +24,17 @@ def satz_bewertung(satz):
     else:
         return "neutral", polarität
 
-def lade_saetze():
+def lade_saetze(dateiname):
     """
     Mithilfe der pandas Funktion read_csv wird das csv-File in ein pandas Dataframe
     geladen und die Spalte mit den enthaltenen Feedback-Texten in das List-Objekt
     saetze geschrieben. Das List-Objekt wird an die Funktion zurückgegeben.
     """
-    df = pd.read_csv('feedback.csv' , delimiter=";")
+    arbeitsverzeichniss = Path.cwd()
+    daten_verzeichnis = str(arbeitsverzeichniss.parent) + r"\input_data\feedback"
+    # dateiname = 'feedback.csv'
+    file_to_open = os.path.join(daten_verzeichnis, dateiname)
+    df = pd.read_csv(file_to_open, delimiter=";")
     saetze = df['Feedback_Text'].tolist()
     return saetze
 
@@ -63,7 +67,7 @@ def speichere_ergebnisse(ergebnisse):
             writer.writerow([satz, stimmung, polarität])
 
 # Lade Sätze
-saetze =  lade_saetze()
+saetze =  lade_saetze("feedback.csv")
 
 # Sätze analysieren
 ergebnisse = analysiere_saetze(saetze)
