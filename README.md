@@ -1,6 +1,7 @@
 # 📊 German Sentiment Analysis for Service Desk Feedback with `TextBlob-de`, Hugging Face's BERT, and Custom Self-Trained Models
 
-Welcome to the **German Sentiment Analysis** project, where we utilize **`TextBlob-de`**, **Hugging Face's BERT**, and **Custom Self-Trained Models** for analyzing customer feedback from a service desk. The goal is to detect and classify sentiments (positive, negative, neutral) in German feedback to improve service quality and customer experience.
+Welcome to the **German Sentiment Analysis** project, where we utilize **`TextBlob-de`**, **Hugging Face's BERT**, and **Custom Self-Trained Models** for analyzing customer feedback from a service desk. The goal is to detect and classify sentiments (positive, negative, neutral) in feedback and use the results to generate Key Performance Indicators (KPIs) for tracking service desk performance and customer satisfaction.
+
 
 ----------
 
@@ -8,7 +9,14 @@ Welcome to the **German Sentiment Analysis** project, where we utilize **`TextBl
 
 Customer feedback from a service desk is invaluable for improving services. Whether it's praise for excellent support or dissatisfaction with unresolved issues, understanding customer sentiment allows for more informed decisions. This project focuses on analyzing German-language feedback from service desk interactions using **rule-based**, **pre-trained**, and **custom-trained deep learning models**.
 
-By incorporating **Captain Self-Trained Models**, we add a flexible option for those looking to fine-tune sentiment analysis models specifically for their datasets, improving accuracy for niche domains or company-specific feedback.
+The main goal of this project is to perform sentiment analysis on German-language customer feedback and create KPIs to measure:
+
+-   The ratio of positive to negative feedback over time.
+-   The percentage of neutral feedback, indicating customer indifference or satisfaction.
+-   Sentiment trends that can help monitor service desk agent performance and customer satisfaction across different departments or time periods.
+
+These KPIs will enable businesses to track the effectiveness of their customer support services, identify pain points, and optimize resource allocation.
+
 
 ----------
 

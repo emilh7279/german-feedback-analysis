@@ -1,0 +1,1001 @@
+Feedback_ID,Feedback_Text,Sentiment
+1,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+2,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+3,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+4,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+5,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+6,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+7,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+8,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+9,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+10,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+11,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+12,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+13,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+14,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+15,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+16,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+17,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+18,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+19,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+20,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+21,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+22,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+23,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+24,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+25,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+26,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+27,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+28,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+29,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+30,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+31,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+32,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+33,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+34,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+35,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+36,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+37,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+38,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+39,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+40,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+41,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+42,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+43,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+44,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+45,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+46,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+47,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+48,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+49,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+50,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+51,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+52,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+53,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+54,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+55,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+56,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+57,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+58,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+59,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+60,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+61,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+62,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+63,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+64,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+65,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+66,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+67,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+68,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+69,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+70,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+71,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+72,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+73,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+74,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+75,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+76,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+77,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+78,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+79,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+80,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+81,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+82,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+83,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+84,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+85,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+86,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+87,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+88,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+89,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+90,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+91,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+92,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+93,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+94,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+95,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+96,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+97,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+98,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+99,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+100,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+101,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+102,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+103,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+104,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+105,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+106,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+107,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+108,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+109,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+110,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+111,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+112,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+113,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+114,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+115,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+116,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+117,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+118,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+119,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+120,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+121,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+122,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+123,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+124,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+125,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+126,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+127,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+128,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+129,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+130,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+131,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+132,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+133,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+134,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+135,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+136,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+137,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+138,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+139,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+140,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+141,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+142,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+143,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+144,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+145,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+146,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+147,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+148,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+149,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+150,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+151,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+152,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+153,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+154,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+155,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+156,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+157,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+158,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+159,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+160,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+161,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+162,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+163,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+164,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+165,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+166,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+167,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+168,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+169,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+170,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+171,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+172,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+173,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+174,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+175,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+176,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+177,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+178,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+179,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+180,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+181,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+182,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+183,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+184,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+185,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+186,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+187,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+188,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+189,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+190,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+191,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+192,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+193,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+194,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+195,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+196,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+197,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+198,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+199,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+200,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+201,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+202,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+203,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+204,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+205,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+206,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+207,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+208,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+209,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+210,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+211,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+212,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+213,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+214,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+215,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+216,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+217,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+218,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+219,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+220,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+221,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+222,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+223,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+224,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+225,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+226,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+227,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+228,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+229,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+230,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+231,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+232,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+233,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+234,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+235,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+236,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+237,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+238,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+239,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+240,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+241,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+242,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+243,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+244,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+245,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+246,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+247,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+248,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+249,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+250,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+251,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+252,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+253,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+254,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+255,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+256,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+257,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+258,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+259,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+260,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+261,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+262,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+263,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+264,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+265,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+266,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+267,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+268,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+269,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+270,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+271,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+272,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+273,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+274,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+275,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+276,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+277,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+278,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+279,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+280,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+281,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+282,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+283,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+284,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+285,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+286,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+287,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+288,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+289,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+290,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+291,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+292,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+293,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+294,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+295,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+296,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+297,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+298,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+299,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+300,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+301,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+302,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+303,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+304,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+305,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+306,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+307,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+308,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+309,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+310,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+311,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+312,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+313,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+314,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+315,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+316,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+317,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+318,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+319,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+320,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+321,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+322,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+323,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+324,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+325,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+326,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+327,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+328,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+329,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+330,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+331,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+332,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+333,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+334,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+335,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+336,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+337,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+338,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+339,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+340,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+341,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+342,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+343,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+344,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+345,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+346,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+347,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+348,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+349,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+350,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+351,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+352,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+353,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+354,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+355,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+356,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+357,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+358,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+359,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+360,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+361,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+362,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+363,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+364,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+365,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+366,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+367,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+368,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+369,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+370,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+371,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+372,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+373,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+374,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+375,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+376,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+377,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+378,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+379,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+380,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+381,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+382,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+383,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+384,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+385,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+386,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+387,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+388,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+389,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+390,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+391,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+392,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+393,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+394,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+395,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+396,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+397,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+398,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+399,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+400,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+401,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+402,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+403,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+404,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+405,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+406,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+407,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+408,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+409,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+410,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+411,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+412,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+413,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+414,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+415,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+416,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+417,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+418,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+419,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+420,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+421,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+422,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+423,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+424,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+425,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+426,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+427,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+428,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+429,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+430,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+431,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+432,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+433,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+434,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+435,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+436,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+437,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+438,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+439,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+440,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+441,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+442,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+443,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+444,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+445,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+446,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+447,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+448,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+449,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+450,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+451,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+452,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+453,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+454,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+455,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+456,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+457,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+458,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+459,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+460,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+461,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+462,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+463,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+464,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+465,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+466,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+467,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+468,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+469,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+470,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+471,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+472,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+473,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+474,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+475,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+476,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+477,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+478,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+479,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+480,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+481,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+482,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+483,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+484,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+485,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+486,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+487,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+488,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+489,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+490,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+491,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+492,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+493,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+494,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+495,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+496,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+497,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+498,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+499,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+500,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+501,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+502,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+503,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+504,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+505,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+506,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+507,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+508,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+509,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+510,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+511,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+512,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+513,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+514,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+515,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+516,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+517,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+518,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+519,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+520,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+521,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+522,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+523,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+524,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+525,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+526,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+527,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+528,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+529,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+530,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+531,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+532,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+533,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+534,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+535,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+536,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+537,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+538,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+539,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+540,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+541,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+542,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+543,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+544,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+545,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+546,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+547,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+548,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+549,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+550,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+551,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+552,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+553,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+554,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+555,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+556,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+557,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+558,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+559,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+560,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+561,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+562,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+563,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+564,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+565,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+566,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+567,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+568,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+569,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+570,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+571,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+572,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+573,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+574,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+575,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+576,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+577,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+578,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+579,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+580,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+581,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+582,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+583,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+584,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+585,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+586,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+587,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+588,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+589,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+590,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+591,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+592,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+593,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+594,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+595,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+596,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+597,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+598,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+599,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+600,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+601,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+602,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+603,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+604,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+605,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+606,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+607,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+608,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+609,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+610,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+611,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+612,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+613,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+614,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+615,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+616,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+617,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+618,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+619,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+620,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+621,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+622,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+623,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+624,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+625,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+626,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+627,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+628,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+629,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+630,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+631,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+632,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+633,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+634,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+635,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+636,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+637,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+638,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+639,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+640,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+641,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+642,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+643,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+644,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+645,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+646,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+647,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+648,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+649,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+650,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+651,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+652,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+653,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+654,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+655,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+656,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+657,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+658,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+659,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+660,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+661,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+662,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+663,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+664,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+665,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+666,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+667,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+668,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+669,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+670,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+671,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+672,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+673,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+674,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+675,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+676,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+677,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+678,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+679,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+680,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+681,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+682,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+683,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+684,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+685,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+686,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+687,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+688,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+689,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+690,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+691,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+692,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+693,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+694,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+695,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+696,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+697,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+698,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+699,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+700,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+701,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+702,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+703,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+704,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+705,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+706,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+707,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+708,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+709,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+710,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+711,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+712,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+713,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+714,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+715,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+716,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+717,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+718,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+719,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+720,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+721,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+722,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+723,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+724,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+725,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+726,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+727,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+728,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+729,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+730,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+731,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+732,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+733,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+734,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+735,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+736,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+737,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+738,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+739,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+740,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+741,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+742,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+743,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+744,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+745,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+746,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+747,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+748,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+749,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+750,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+751,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+752,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+753,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+754,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+755,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+756,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+757,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+758,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+759,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+760,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+761,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+762,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+763,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+764,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+765,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+766,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+767,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+768,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+769,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+770,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+771,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+772,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+773,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+774,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+775,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+776,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+777,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+778,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+779,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+780,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+781,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+782,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+783,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+784,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+785,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+786,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+787,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+788,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+789,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+790,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+791,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+792,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+793,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+794,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+795,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+796,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+797,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+798,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+799,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+800,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+801,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+802,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+803,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+804,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+805,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+806,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+807,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+808,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+809,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+810,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+811,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+812,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+813,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+814,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+815,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+816,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+817,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+818,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+819,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+820,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+821,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+822,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+823,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+824,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+825,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+826,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+827,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+828,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+829,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+830,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+831,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+832,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+833,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+834,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+835,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+836,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+837,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+838,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+839,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+840,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+841,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+842,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+843,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+844,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+845,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+846,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+847,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+848,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+849,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+850,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+851,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+852,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+853,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+854,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+855,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+856,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+857,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+858,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+859,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+860,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+861,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+862,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+863,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+864,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+865,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+866,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+867,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+868,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+869,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+870,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+871,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+872,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+873,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+874,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+875,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+876,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+877,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+878,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+879,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+880,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+881,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+882,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+883,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+884,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+885,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+886,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+887,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+888,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+889,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+890,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+891,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+892,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+893,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+894,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+895,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+896,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+897,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+898,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+899,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+900,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+901,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+902,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+903,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+904,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+905,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+906,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+907,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+908,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+909,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+910,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+911,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+912,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+913,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+914,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+915,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+916,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+917,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+918,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+919,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+920,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+921,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+922,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+923,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+924,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+925,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+926,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+927,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+928,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+929,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+930,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+931,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+932,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+933,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+934,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+935,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+936,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+937,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+938,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+939,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+940,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+941,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+942,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+943,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+944,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+945,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+946,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+947,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+948,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+949,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+950,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+951,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+952,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+953,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+954,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+955,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+956,Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv
+957,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+958,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+959,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+960,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+961,"Insgesamt eine gute Erfahrung, hätte aber schneller sein können.",neutral
+962,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+963,Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv
+964,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+965,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+966,"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral
+967,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+968,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+969,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+970,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+971,"Der Vorgang war unkompliziert, aber ich musste etwas länger warten.",neutral
+972,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+973,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+974,"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral
+975,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+976,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+977,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+978,"Ich bin sehr zufrieden mit dem Service, mein Problem wurde sofort behoben.",positiv
+979,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+980,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+981,"Ich musste stundenlang warten, bis sich jemand bei mir gemeldet hat. Sehr frustrierend.",negativ
+982,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+983,"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv
+984,"Das Team hat großartige Arbeit geleistet, alles war super.",positiv
+985,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+986,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+987,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ
+988,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+989,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+990,Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ
+991,"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ
+992,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+993,Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ
+994,"Die Lösung war in Ordnung, aber der Prozess war etwas langsam.",neutral
+995,Es hat zu lange gedauert und niemand konnte mir helfen.,negativ
+996,Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.,positiv
+997,"Hervorragender Kundenservice, sehr freundlich und effizient!",positiv
+998,Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,negativ
+999,"Die Bearbeitung war schnell, aber die Lösung war unklar.",neutral
+1000,Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.,negativ

@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0cc9e39-4e68-4b80-a1cb-1a22d29c9a22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/textblob-de/simple_textblob.py" afterDir="false" />
+    <list default="true" id="f0cc9e39-4e68-4b80-a1cb-1a22d29c9a22" name="Changes" comment="Added simple_textblob.py">
+      <change afterPath="$PROJECT_DIR$/input_data/service_desk_feedbacks.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textblob-de/feedback.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textblob-de/sentiment_feedback_textblob.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "emilh7279"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;emilh7279&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/emilh7279/german-feedback-analysis.git",
-    "accountId": "6eea7bff-0308-40ac-8c45-988f26387f5c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/emilh7279/german-feedback-analysis.git&quot;,
+    &quot;accountId&quot;: &quot;6eea7bff-0308-40ac-8c45-988f26387f5c&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2mcrAbNXhUzLwnD2EE1yXTChVpT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,11 +49,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.sentiment_feedback_textblob.executor": "Run",
+    "Python.simple_textblob.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/T440s/Desktop/Pia/MA/python/textblob"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\T440s\Desktop\Pia\MA\python\german-feedback-analysis\textblob-de" />
+      <recent name="C:\Users\T440s\Desktop\Pia\MA\python\german-feedback-analysis" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,6 +78,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727386563096</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added simple_textblob.py">
+      <option name="closed" value="true" />
+      <created>1727387239137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727387239137</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added simple_textblob.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added simple_textblob.py" />
   </component>
 </project>
