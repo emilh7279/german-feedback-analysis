@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0cc9e39-4e68-4b80-a1cb-1a22d29c9a22" name="Changes" comment="Added sentiment_feedback_textblob.py">
+    <list default="true" id="f0cc9e39-4e68-4b80-a1cb-1a22d29c9a22" name="Changes" comment="Changed sentiment_feedback_textblob.py input_data dir working">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hugging_face_sentiment/finetune_hugging_face_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hugging_face_sentiment/simple_sentiment_hugging_face.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hugging_face_sentiment/use_finetuned_hugging_face_model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_data/service_desk_feedbacks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/input_data/bewertete_daten/service_desk_feedbacks.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textblob-de/feedback.csv" beforeDir="false" afterPath="$PROJECT_DIR$/input_data/feedback/feedback.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textblob-de/sentiment_feedback_textblob.py" beforeDir="false" afterPath="$PROJECT_DIR$/textblob-de/sentiment_feedback_textblob.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +50,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.sentiment_feedback_textblob.executor": "Run",
+    "Python.simple_sentiment_hugging_face.executor": "Run",
     "Python.simple_textblob.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/T440s/Desktop/Pia/MA/python/german-feedback-analysis/input_data"
+    "last_opened_file_path": "C:/Users/T440s/Desktop/Pia/MA/python/german-feedback-analysis/input_data",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -106,12 +109,32 @@
       <option name="project" value="LOCAL" />
       <updated>1727875719915</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed sentiment_feedback_textblob.py input_data dir working">
+      <option name="closed" value="true" />
+      <created>1727882283015</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727882283015</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added simple_textblob.py" />
     <MESSAGE value="Added sentiment_feedback_textblob.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added sentiment_feedback_textblob.py" />
+    <MESSAGE value="Changed sentiment_feedback_textblob.py input_data dir working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed sentiment_feedback_textblob.py input_data dir working" />
   </component>
 </project>
