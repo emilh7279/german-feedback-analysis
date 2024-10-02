@@ -1,4 +1,7 @@
 import csv
+import datetime as dt
+from datetime import datetime
+
 import pandas as pd
 from textblob_de import TextBlobDE as TextBlob
 
@@ -43,10 +46,16 @@ def analysiere_saetze(saetze):
         ergebnisse.append((satz, stimmung, polarität))
     return ergebnisse
 
-def speichere_ergebnisse(ergebnisse, dateiname="results/ergebnisse.csv"):
+def speichere_ergebnisse(ergebnisse):
     """
     Funktion: Speichert die Ergebnisse der Analyse in einer CSV-Datei.
     """
+    # Deklariere Dateinamen-Variablen
+    datum = dt.datetime.now().strftime("%Y%m%d_%HT%M")
+    result_pfad = "results/"
+    dateiname = result_pfad + str(datum) + "_Ergebnisse.csv"
+
+    # Schreibe CSV Ergebiss-Datei
     with open(dateiname, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(["Satz", "Stimmung", "Polarität"])

@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0cc9e39-4e68-4b80-a1cb-1a22d29c9a22" name="Changes" comment="Added simple_textblob.py">
-      <change afterPath="$PROJECT_DIR$/input_data/service_desk_feedbacks.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textblob-de/feedback.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textblob-de/sentiment_feedback_textblob.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textblob-de/sentiment_feedback_textblob.py" beforeDir="false" afterPath="$PROJECT_DIR$/textblob-de/sentiment_feedback_textblob.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +44,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.sentiment_feedback_textblob.executor": "Run",
-    "Python.simple_textblob.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/T440s/Desktop/Pia/MA/python/textblob"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.sentiment_feedback_textblob.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simple_textblob.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/T440s/Desktop/Pia/MA/python/textblob&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\T440s\Desktop\Pia\MA\python\german-feedback-analysis\textblob-de" />
@@ -86,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727387239137</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added simple_textblob.py">
+      <option name="closed" value="true" />
+      <created>1727872103880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727872103880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
