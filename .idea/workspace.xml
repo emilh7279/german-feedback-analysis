@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0cc9e39-4e68-4b80-a1cb-1a22d29c9a22" name="Changes" comment="Changed sentiment_feedback_textblob.py input_data dir working">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hugging_face_sentiment/finetune_hugging_face_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hugging_face_sentiment/simple_sentiment_hugging_face.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hugging_face_sentiment/use_finetuned_hugging_face_model.py" afterDir="false" />
+    <list default="true" id="f0cc9e39-4e68-4b80-a1cb-1a22d29c9a22" name="Changes" comment="Added HuggingFace Dir and a simple HuggingFace Bert Script. And Added firt Test for a pretrained 7 finetuned model for feedback sentiment analyse">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugging_face_sentiment/finetune_hugging_face_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/hugging_face_sentiment/finetune_hugging_face_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_data/bewertete_daten/service_desk_feedbacks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/input_data/bewertete_daten/service_desk_feedbacks.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.finetune_hugging_face_model.executor": "Run",
     "Python.sentiment_feedback_textblob.executor": "Run",
     "Python.simple_sentiment_hugging_face.executor": "Run",
     "Python.simple_textblob.executor": "Run",
@@ -117,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727882283015</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added HuggingFace Dir and a simple HuggingFace Bert Script. And Added firt Test for a pretrained 7 finetuned model for feedback sentiment analyse">
+      <option name="closed" value="true" />
+      <created>1727885789820</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727885789820</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +142,7 @@
     <MESSAGE value="Added simple_textblob.py" />
     <MESSAGE value="Added sentiment_feedback_textblob.py" />
     <MESSAGE value="Changed sentiment_feedback_textblob.py input_data dir working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed sentiment_feedback_textblob.py input_data dir working" />
+    <MESSAGE value="Added HuggingFace Dir and a simple HuggingFace Bert Script. And Added firt Test for a pretrained 7 finetuned model for feedback sentiment analyse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HuggingFace Dir and a simple HuggingFace Bert Script. And Added firt Test for a pretrained 7 finetuned model for feedback sentiment analyse" />
   </component>
 </project>

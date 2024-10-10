@@ -1,10 +1,16 @@
+import os
+from pathlib import Path
 import pandas as pd
 from datasets import Dataset
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer
 import torch
 
 # Lade den CSV-Datensatz
-df = pd.read_csv("sentiment_data.csv")
+arbeitsverzeichniss = Path.cwd()
+daten_verzeichnis = str(arbeitsverzeichniss.parent) + r"\input_data\bewertete_daten"
+dateiname = "service_desk_feedbacks1.csv"
+file_to_open = os.path.join(daten_verzeichnis, dateiname)
+df = pd.read_csv(file_to_open)
 dataset = Dataset.from_pandas(df)
 
 # Lade den Tokenizer
