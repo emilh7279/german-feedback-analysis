@@ -6,20 +6,20 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trai
 import torch
 
 # Lade den CSV-Datensatz
-arbeitsverzeichniss = Path.cwd()
-daten_verzeichnis = str(arbeitsverzeichniss.parent) + r"\input_data\bewertete_daten"
-dateiname = "service_desk_feedbacks1.csv"
-file_to_open = os.path.join(daten_verzeichnis, dateiname)
-df = pd.read_csv(file_to_open)
-dataset = Dataset.from_pandas(df)
+arbeitsverzeichniss = Path.cwd()                                                            # Ermittle aktuelles Arbeitsverzeichnis
+daten_verzeichnis = str(arbeitsverzeichniss.parent) + r"\input_data\bewertete_daten"        # Finde Datenverzeichnis
+dateiname = "service_desk_feedbacks.csv"                                                    # Definiere Dateiname Trainingsdaten
+file_to_open = os.path.join(daten_verzeichnis, dateiname)                                   # Kombiniere Datenverzeichis und Dateiname
+df = pd.read_csv(r"C:\Users\T440s\Desktop\Pia\MA\python\german-feedback-analysis\input_data\bewertete_daten\text.txt", delimiter=";")
+dataset = Dataset.from_pandas(df)                                                           # Konvertiere Pandas Dataframe in Hugging Face Dataset
 
 # Lade den Tokenizer
-model_name = "oliverguhr/german-sentiment-bert"
+model_name = "oliverguhr/german-sentiment-bert"                                             # Definiere Model (german pretrained Model oliver Guhr)
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 # Tokenisiere den Datensatz
 def tokenize_function(examples):
-    return tokenizer(examples['Text'], padding="max_length", truncation=True)
+    return tokenizer(examples['Text'], padding="max_length", truncation=True)               # Trainingsdatei muss Spalte mit Überschrift Text enthalten
 
 tokenized_datasets = dataset.map(tokenize_function, batched=True)
 
@@ -58,5 +58,5 @@ eval_results = trainer.evaluate()
 print(f"Evaluation results: {eval_results}")
 
 # Speichern des finetunten Modells
-model.save_pretrained("hugging_face_sentiment/finetuned_models/finetuned_model1")
-tokenizer.save_pretrained("hugging_face_sentiment/finetuned_models/finetuned_model1")
+model.save_pretrained("hugging_face_sentiment/finetuned_models")
+tokenizer.save_pretrained("hugging_face_sentiment/finetuned_models")
