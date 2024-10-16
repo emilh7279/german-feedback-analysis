@@ -24,7 +24,7 @@ These KPIs will enable businesses to track the effectiveness of their customer s
 
 -   **TextBlob-de**: A rule-based sentiment analysis tool for the German language.
 -   **BERT** from Hugging Face: A pre-trained transformer model fine-tuned for sentiment analysis.
--   **Custom Self-Trained Models**: Models trained on company-specific service desk feedback for better domain adaptation..
+-   **Custom Self-Trained Models**: Models trained on company-specific service desk feedback for better domain adaptation.
 
 ----------
 
