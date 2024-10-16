@@ -156,7 +156,8 @@ functions for reading a larger dataset in CSV format and saving the determined s
 This function loads sentences from a CSV file that contains feedback data. The filename is passed as a parameter,
 and the function extracts the text column from the CSV file and returns it as a list of sentences.
 
->>> [!WARNING] The CSV file must be placed in the input_data folder.
+> [!IMPORTANT]  
+> The CSV file must be placed in the input_data folder.
 
 ##### Parameters:
 dateiname: A string that specifies the name of the CSV file containing the feedback data.
