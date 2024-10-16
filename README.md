@@ -170,11 +170,12 @@ The results are stored in a structured way, making them easy to view or process 
 > The result CSV file is located in textblob-de/results.
 
 --------
+
 #### Conclusion TextBlob-DE
 As you can see TextBlob is a fast and easy-to-use method for performing sentiment analysis on sentences.
 With textblob-de, the framework also provides a direct way to interpret German sentences.
---------
 
+--------
 
 ### BERT Sentiment Analysis
 
