@@ -173,3 +173,33 @@ The results are stored in a structured way, making them easy to view or process 
 #### Conclusion TextBlob-DE
 As you can see TextBlob is a fast and easy-to-use method for performing sentiment analysis on sentences.
 With textblob-de, the framework also provides a direct way to interpret German sentences.
+--------
+
+
+### BERT Sentiment Analysis
+
+**BERT** (Bidirectional Encoder Representations from Transformers) is a powerful deep learning model developed
+by Google for Natural Language Processing (NLP). It revolutionized the NLP field by its ability to understand
+the context of words in a sentence from both the left and right sides. This bidirectional analysis allows BERT
+to capture complex meanings and nuances in texts more effectively than previous models.
+
+-   **Pre-training**:
+    
+    -   BERT is trained on a large corpus of unlabeled text to learn language patterns and structures.
+
+-   **Fine-tuning**:
+    
+    -   After pre-training, BERT can be adapted for specific tasks, such as sentiment analysis.
+    This is done by training the model on a labeled dataset that includes examples of positive, negative, and neutral
+    sentiments. Through fine-tuning, the model learns to account for specific features of the target task.
+
+##### Steps for Performing Sentiment Analysis with BERT
+
+1.  **Loading the Pre-trained BERT Model**:
+    -   We use the Hugging Face pipeline to load a BERT model trained for sentiment analysis. An example model for the German language is `oliverguhr/german-sentiment-bert`.
+2.  **Preprocessing Input Data**:
+    -   Input data (customer feedback) needs to be preprocessed. This includes tokenization and adding special tokens required for the model. The text is transformed into a format that can be processed by the model.
+3.  **Predicting the Sentiment Class**:
+    -   After preprocessing, the text is fed into the model, which outputs a prediction for the sentiment of the text. The model returns a list of sentiment classes along with the probabilities for each class.
+4.  **Interpreting Results**:
+    -   The predictions are analyzed to evaluate the overall sentiment of customer feedback. The obtained values can provide insights into customer satisfaction.
