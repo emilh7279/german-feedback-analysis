@@ -162,6 +162,12 @@ and the function extracts the text column from the CSV file and returns it as a 
 ##### Parameters:
 dateiname: A string that specifies the name of the CSV file containing the feedback data.
 
+##### Function: speichere_ergebnisse(ergebnisse)
+This function saves the results of an analysis into a CSV file.
+The results are stored in a structured way, making them easy to view or process later.
+
+> [!NOTE]
+> The result CSV file is located in textblob-de/results.
 
 --------
 #### Conclusion TextBlob-DE
