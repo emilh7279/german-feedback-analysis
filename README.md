@@ -92,7 +92,7 @@ This repository provides three approaches to performing sentiment analysis on se
 ### Folder textblob-de
 The folder textblob-de contains two python files which shows the usage  of a sentiment analysis.
 
-#### simple_textblob.py
+#### File simple_textblob.py
  ##### Function: `satz_bewertung(satz)`
 
 This function evaluates the sentiment of a given German sentence and returns an assessment as **positive**, **negative**, or **neutral**. The sentiment is determined based on the **polarity** of the sentence, which is calculated through sentiment analysis.
@@ -146,6 +146,23 @@ This function evaluates the sentiment of a given German sentence and returns an 
  9. Der Satz ist neutral. Polarität: 0.0
  10. Der Satz ist negativ. Polarität: -0.75
 
-#### Conclusion
+--------
+
+#### File sentiment_feedback_textblob.py
+This script includes, in addition to the satz_bewertung(satz) function,
+functions for reading a larger dataset in CSV format and saving the determined sentiments in a CSV file.
+
+##### Function: lade_saetze(dateiname)
+This function loads sentences from a CSV file that contains feedback data. The filename is passed as a parameter,
+and the function extracts the text column from the CSV file and returns it as a list of sentences.
+
+>>> [!WARNING] The CSV file must be placed in the input_data folder.
+
+##### Parameters:
+dateiname: A string that specifies the name of the CSV file containing the feedback data.
+
+
+--------
+#### Conclusion TextBlob-DE
 As you can see TextBlob is a fast and easy-to-use method for performing sentiment analysis on sentences.
 With textblob-de, the framework also provides a direct way to interpret German sentences.
