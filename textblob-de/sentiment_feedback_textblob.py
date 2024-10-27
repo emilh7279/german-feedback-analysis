@@ -31,7 +31,7 @@ def lade_saetze(dateiname):
     saetze geschrieben. Das List-Objekt wird an die Funktion zurückgegeben.
     """
     arbeitsverzeichniss = Path.cwd()
-    daten_verzeichnis = str(arbeitsverzeichniss.parent) + r"\input_data\feedback"
+    daten_verzeichnis = str(arbeitsverzeichniss.parent) + r"\input_data"
     # dateiname = 'feedback.csv'
     file_to_open = os.path.join(daten_verzeichnis, dateiname)
     df = pd.read_csv(file_to_open, delimiter=";")
