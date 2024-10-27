@@ -1,6 +1,6 @@
 # 📊 German Sentiment Analysis for Service Desk Feedback with `TextBlob-de`, Hugging Face's BERT, and Custom Self-Trained Models
 
-Welcome to the **German Sentiment Analysis** project, where we utilize **`TextBlob-de`**, **Hugging Face's BERT**, and **Custom Self-Trained Models** for analyzing customer feedback from a service desk. The goal is to detect and classify sentiments (positive, negative, neutral) in feedback and use the results to generate Key Performance Indicators (KPIs) for tracking service desk performance and customer satisfaction.
+Welcome to the **German Sentiment Analysis** project, where we utilize **`TextBlob-de`**, **Hugging Face's BERT**, and **Custom Finetuned Models** for analyzing customer feedback from a service desk. The goal is to detect and classify sentiments (positive, negative, neutral) in feedback and use the results to generate Key Performance Indicators (KPIs) for tracking service desk performance and customer satisfaction.
 
 
 ----------
@@ -24,7 +24,7 @@ These KPIs will enable businesses to track the effectiveness of their customer s
 
 -   **TextBlob-de**: A rule-based sentiment analysis tool for the German language.
 -   **BERT** from Hugging Face: A pre-trained transformer model fine-tuned for sentiment analysis.
--   **Custom Self-Trained Models**: Models trained on company-specific service desk feedback for better domain adaptation.
+-   **Custom Finetuned Models**: Models trained on company-specific service desk feedback for better domain adaptation.
 
 ----------
 
@@ -34,11 +34,8 @@ These KPIs will enable businesses to track the effectiveness of their customer s
 2.  [Usage](#usage)
     -   [TextBlob-de Sentiment Analysis](#textblob-de-sentiment-analysis)
     -   [BERT Sentiment Analysis](#bert-sentiment-analysis)
-    -   [Captain Self-Trained Model Analysis](#captain-self-trained-model-analysis)
-3.  [Training Custom Models](#training-custom-models)
-4.  [Model Performance](#model-performance)
-5.  [Contributing](#contributing)
-6.  [License](#license)
+    -   [Custom Finetuned Model Analysis](#custom-finetuned-model-analysis)
+3.  [License](#license)
 
 ----------
 
@@ -284,3 +281,5 @@ Sentiment: negative (Confidence: 0.9930)
 Sentiment: positive (Confidence: 0.9615)
 10. Das Support-Team schien verwirrt und hat nicht wirklich geholfen.
 Sentiment: negative (Confidence: 0.9912)
+
+### Custom Finetuned Model Analysis
