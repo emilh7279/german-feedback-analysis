@@ -22,8 +22,8 @@ def lade_saetze(dateiname):
     geladen und die Spalte mit den enthaltenen Feedback-Texten in das List-Objekt
     saetze geschrieben. Das List-Objekt wird an die Funktion zurückgegeben.
     """
-    arbeitsverzeichniss = Path.cwd()
-    daten_verzeichnis = str(arbeitsverzeichniss.parent) + r"\input_data\feedback"
+    arbeitsverzeichnis= Path.cwd()
+    daten_verzeichnis = str(arbeitsverzeichnis.parent) + r"\input_data"
     # dateiname = 'feedback.csv'
     file_to_open = os.path.join(daten_verzeichnis, dateiname)
     df = pd.read_csv(file_to_open, delimiter=";")
@@ -33,6 +33,7 @@ def lade_saetze(dateiname):
 # 3. Funktion zur Sentiment-Analyse
 def analyse_sentiment(text):
     # Text tokenisieren
+
     inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True)
 
     # Vorhersage mit dem Modell
@@ -50,8 +51,11 @@ def analyse_sentiment(text):
 
 
 # 4. Teste die Funktion mit einem deutschen Satz
-text = "Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend."
-sentiment, confidence = analyse_sentiment(text)
 
-print(f"Text: {text}")
-print(f"Sentiment: {sentiment} (Confidence: {confidence:.4f})")
+saetze =  lade_saetze("feedback.csv")
+for satz in saetze:
+    #text = "Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend."
+    sentiment, confidence = analyse_sentiment(satz)
+    print(f"Text: {satz}")
+    print(f"Sentiment: {sentiment} (Confidence: {confidence:.4f})")
+
