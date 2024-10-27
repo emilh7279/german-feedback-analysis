@@ -255,10 +255,32 @@ The Python file hugging_face_entiment/simple_sentiment_hugging_face.py contains 
 -   The label with the highest probability is determined (using **torch.argmax**) and translated into `sentiment_label` as "positive", "negative", or "neutral".
 -   The function returns both the predicted sentiment and the probability for that prediction.
 
-#### 4. Testing the Code with an Example Sentence
+#### 4. Testing the Code with Example Sentences
 
     saetze =  lade_saetze("feedback.csv")
     for satz in saetze:
         sentiment, confidence = analyse_sentiment(satz)
         print(f"Text: {satz}")
         print(f"Sentiment: {sentiment} (Confidence: {confidence:.4f})")
+
+#### Sample Output:
+1. Der Service war hervorragend und mein Anliegen wurde sofort geklärt.
+Sentiment: positive (Confidence: 0.9997)
+2. Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.
+Sentiment: neutral (Confidence: 0.9934)
+3. Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.
+Sentiment: negative (Confidence: 0.9990)
+4. Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.
+Sentiment: negative (Confidence: 0.9982)
+5. Der Service hat zu lange gebraucht und mein Problem nicht gelöst.
+Sentiment: negative (Confidence: 0.9857)
+6. Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.
+Sentiment: positive (Confidence: 0.9974)
+7. Fantastischer Service! Mein Problem wurde sofort gelöst.
+Sentiment: positive (Confidence: 0.9970)
+8. Es hat zu lange gedauert und niemand konnte mir helfen.
+Sentiment: negative (Confidence: 0.9930)
+9. Es war okay, nicht das Beste, aber das Problem wurde gelöst.
+Sentiment: positive (Confidence: 0.9615)
+10. Das Support-Team schien verwirrt und hat nicht wirklich geholfen.
+Sentiment: negative (Confidence: 0.9912)
