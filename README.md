@@ -204,3 +204,61 @@ to capture complex meanings and nuances in texts more effectively than previous 
     -   After preprocessing, the text is fed into the model, which outputs a prediction for the sentiment of the text. The model returns a list of sentiment classes along with the probabilities for each class.
 4.  **Interpreting Results**:
     -   The predictions are analyzed to evaluate the overall sentiment of customer feedback. The obtained values can provide insights into customer satisfaction.
+
+#### Code and Examples
+
+The Python file hugging_face_entiment/simple_sentiment_hugging_face.py contains a simple implementation of BERT and loads a pre-trained model for sentiment analysis.
+
+#### 1. Loading the Pre-trained Model and Tokenizer
+
+    model_name = "oliverguhr/german-sentiment-bert"  
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForSequenceClassification.from_pretrained(model_name) 
+
+-   Here, the pre-trained German sentiment BERT model (`oliverguhr/german-sentiment-bert`) is loaded.
+-   **AutoTokenizer**: Splits the text into tokens that the model understands.
+-   **AutoModelForSequenceClassification**: Loads the sentiment model for text classification.
+
+#### 2. Loading the Dataset
+
+    def lade_saetze(dateiname):
+        arbeitsverzeichnis = Path.cwd()
+        daten_verzeichnis = str(arbeitsverzeichnis.parent) + r"\input_data\feedback"
+        file_to_open = os.path.join(daten_verzeichnis, dateiname)
+        df = pd.read_csv(file_to_open, delimiter=";")
+        saetze = df['Feedback_Text'].tolist()
+        return saetze
+
+-   This function loads feedback text from a CSV file using **pandas**.
+-   The CSV file is read, and the `Feedback_Text` column is converted into a list and returned.
+
+#### 3. Sentiment Analysis Function
+
+    def analyse_sentiment(text):
+        inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True)
+        
+        with torch.no_grad():
+            outputs = model(**inputs)
+        
+        probs = F.softmax(outputs.logits, dim=-1)
+        sentiment = torch.argmax(probs).item()
+        sentiment_label = ["positive", "negative", "neutral"][sentiment]
+        
+        return sentiment_label, probs[0][sentiment].item()
+
+-   **analyse_sentiment(text)** performs sentiment analysis on the given text.
+-   The text is first tokenized using the **tokenizer**.
+    -   **return_tensors="pt"** returns the tokens as PyTorch tensors.
+    -   **truncation** and **padding** ensure the input data has the correct length.
+-   The model predicts the sentiment of the text without calculating gradients (using **torch.no_grad()** to save computational resources).
+-   The model output (logits) is converted into probabilities using the **softmax** function.
+-   The label with the highest probability is determined (using **torch.argmax**) and translated into `sentiment_label` as "positive", "negative", or "neutral".
+-   The function returns both the predicted sentiment and the probability for that prediction.
+
+#### 4. Testing the Code with an Example Sentence
+
+    saetze =  lade_saetze("feedback.csv")
+    for satz in saetze:
+        sentiment, confidence = analyse_sentiment(satz)
+        print(f"Text: {satz}")
+        print(f"Sentiment: {sentiment} (Confidence: {confidence:.4f})")
