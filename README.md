@@ -290,3 +290,81 @@ During fine-tuning, we further train the model on our labeled data, enabling it 
 
 In this project, we use a pre-trained German BERT model from the Hugging Face library and fine-tune it for sentiment classification, categorizing text into positive, negative, or neutral sentiment.
 By tailoring BERT to our dataset, we aim to increase model accuracy and better understand customer sentiment trends.
+
+#### Code and Examples
+We split the task of applying a custom fine-tuned BERT model into two scripts. In the first script, the custom fine-tuned BERT model is trained and saved.
+In the second script, we load the custom fine-tuned model and use it to evaluate our new datasets.
+
+##### Generate Custome Finetuned Model
+
+#### 2. Load labeled CSV-Dataset
+
+#### 3. Load Tokenizer
+
+#### 4. Tokenize the Dataset
+
+    def tokenize_function(examples):
+        return tokenizer(examples['Text'], padding="max_length", truncation=True)               
+    
+    tokenized_datasets = dataset.map(tokenize_function, batched=True)
+
+-   **Tokenization function**: A function that converts text into tokens. The text should be in a column named `"Text"`.
+-   **Tokenize entire dataset**: `dataset.map()` applies the tokenization function to all data, with `batched=True` allowing for batch processing.
+
+#### 5. Split into Training and Test Data
+
+    train_test_split = tokenized_datasets.train_test_split(test_size=0.2)
+    train_dataset = train_test_split['train']
+    test_dataset = train_test_split['test']
+
+-   **Splitting the dataset**: The dataset is split into 80% training and 20% test data.
+
+#### 6. Load the Model
+
+    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=3)
+
+-   **Load model**: A pre-trained model for sentiment classification is loaded. Here it’s assumed there are three classes (e.g., positive, negative, and neutral sentiments), so `num_labels=3` is set.
+
+#### 7. Configure Training Parameters
+
+    training_args = TrainingArguments(
+        output_dir="finetuned_hugging_face_sentiment/results",
+        evaluation_strategy="epoch",
+        learning_rate=2e-5,
+        per_device_train_batch_size=16,
+        per_device_eval_batch_size=16,
+        num_train_epochs=3,
+        weight_decay=0.01,
+    )
+
+-   **`TrainingArguments`**: These parameters control the model training:
+    -   **`output_dir`**: Folder to save results.
+    -   **`evaluation_strategy`**: Evaluates the model at the end of each epoch.
+    -   **`learning_rate`**: Learning rate, which controls how fast the model learns.
+    -   **`per_device_train_batch_size` and `per_device_eval_batch_size`**: Batch sizes for training and evaluation.
+    -   **`num_train_epochs`**: Number of training epochs.
+    -   **`weight_decay`**: Regularization to help avoid overfitting.
+
+#### 8. Initialize the Trainer
+
+    trainer = Trainer(
+        model=model,
+        args=training_args,
+        train_dataset=train_dataset,
+        eval_dataset=test_dataset,
+    )
+
+-   **Trainer**: Initializes the training by passing the model, training arguments, and datasets.
+
+#### 9. Train the Model
+
+    trainer.train()
+
+-   **Training**: Starts training the model.
+
+
+#### 11. Save the Fine-Tuned Model
+
+    model.save_pretrained("finetuned_hugging_face_sentiment/finetuned_models")
+    tokenizer.save_pretrained("finetuned_hugging_face_sentiment/finetuned_models")
+
