@@ -283,3 +283,10 @@ Sentiment: positive (Confidence: 0.9615)
 Sentiment: negative (Confidence: 0.9912)
 
 ### Custom Finetuned Model Analysis
+
+Fine-tuning a BERT model allows us to adapt the general-purpose, pre-trained BERT architecture to a specific task or dataset.
+While BERT is pre-trained on massive amounts of general language data, fine-tuning helps it perform better on specific tasks—like sentiment analysis for German customer feedback in this project.
+During fine-tuning, we further train the model on our labeled data, enabling it to capture domain-specific language patterns, vocabulary, and nuances more effectively.
+
+In this project, we use a pre-trained German BERT model from the Hugging Face library and fine-tune it for sentiment classification, categorizing text into positive, negative, or neutral sentiment.
+By tailoring BERT to our dataset, we aim to increase model accuracy and better understand customer sentiment trends.
